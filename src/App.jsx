@@ -7,7 +7,7 @@ const App = () => {
     // Assuming certificates are in 'public/certificates' folder
     // and you have a list of image filenames
     const imageList = [
-      'Dsa.png',
+      'DSA.png',
       'Fullstack.png',
       'Java.png',
       'MongoDb.png',
